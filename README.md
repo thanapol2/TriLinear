@@ -18,12 +18,12 @@
 ## 🔧 Requirements
 
 - Python 3.12  
-- matplotlib == 3.1.1  
-- numpy == 1.19.4  
-- pandas == 0.25.1  
-- torch == 2.3.0  
+- matplotlib == 3.10.3 
+- numpy == 1.26.4 
+- pandas == 2.2.3
+- torch == 2.7.0  
 - periodicity-detection == 0.1.3  
-- TSB-AD == 1.3  
+- TSB-AD == 1.5  
 
 ---
 
