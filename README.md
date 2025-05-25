@@ -46,6 +46,25 @@
 
 ---
 
+## 📊 Evaluation
+
+We provide reproducible evaluation code to compare **TriLinear** against existing TSAD methods across datasets.
+
+### Metrics:
+We evaluate methods using:
+- **VUS-ROC** (Volume Under the Surface for ROC), Ref: [VUS-ROC](https://proceedings.neurips.cc/paper_files/paper/2024/file/c3f3c690b7a99fba16d0efd35cb83b2c-Paper-Datasets_and_Benchmarks_Track.pdf)
+
+### Settings:
+- **Unsupervised** methods: Trained on the entire time series.
+- **Semi-supervised** methods: Few-shot learning setup (**trained on 10–20% normal data**).
+- **Reproducibility**: All experiments were conducted on a single NVIDIA RTX 5070 GPU. For testing purposes, the environment was also verified on an RTX 2060 GPU.
+
+
+### ⚠️ Note
+Some methods may require manual adjustment of hyperparameters based on dataset characteristics. Please refer to our supplementary configuration files for details.
+
+---
+
 ## 📌 Note
 
 This version of **TriLinear** does not include encapsulated packaging or modular deployment features. A full version will be released after the double-blind review process is complete.
