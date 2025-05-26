@@ -59,10 +59,6 @@ We evaluate methods using:
 - **Semi-supervised** methods: Few-shot learning setup (**trained on 10–20% normal data**).
 - **Reproducibility**: All experiments were conducted on a single NVIDIA RTX 5070 GPU. For testing purposes, the environment was also verified on an RTX 2060 GPU.
 
-
-### ⚠️ Note
-Some methods may require manual adjustment of hyperparameters based on dataset characteristics. Please refer to our supplementary configuration files for details.
-
 ---
 
 ## 📌 Note
