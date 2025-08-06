@@ -11,8 +11,8 @@
 
 ## 🆕 Main Recent Update
 
-- **[22-MAY-2024]** Uploaded source code for the double-blind review phase of **ADMA 2025**.
-- **[29-MAY-2024]** Uploaded example source codes for TriLinear
+- **[22-MAY-2025]** Uploaded source code for the double-blind review phase of **ADMA 2025**.
+- **[29-MAY-2025]** Uploaded example source codes for TriLinear
 
 
 ---
