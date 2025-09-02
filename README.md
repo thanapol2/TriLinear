@@ -4,6 +4,8 @@
   
 ![Python 3.12](https://img.shields.io/badge/python-3.12-green.svg?style=plastic)
 ![CUDA 12.8](https://img.shields.io/badge/CUDA-12.8-green.svg?style=plastic)
+![ADMA 2025](https://img.shields.io/badge/ADMA-2025-blue.svg?style=plastic)
+
 
 </div>
 
@@ -11,6 +13,7 @@
 
 ## 🆕 Main Recent Update
 
+- **[12-JUL-2025]** This paper was accepted in [ADMA 2025](https://adma2025.github.io/)
 - **[22-MAY-2025]** Uploaded source code for the double-blind review phase of **ADMA 2025**.
 - **[29-MAY-2025]** Uploaded example source codes for TriLinear
 
