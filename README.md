@@ -47,14 +47,15 @@
 ## 📂 Dataset
 
 - **NAB and KDD**: Available from the [TSB-AD GitHub repository](https://github.com/TheDatumOrg/TSB-AD/tree/main/Datasets).  
-- **Kepler**: Synthetic Kepler light curves are stored in the `light_curve/` folder. Each file follows the naming pattern: `[AA]_H[BB]_D[CC]_[DD]_[EE]`
-**Filename structure:**
-  - `AA` – Original light curve name  
-  - `BB` – Height of the injected flare  
-  - `CC` – Duration of the flare  
-  - `DD` – Index of the start of the rising phase  
-  - `EE` – Index of the start of the decay phase
-- M-dwarfs**: Only two samples are included in this release for the double-blind review phase. 
+- **light curve**:
+  - Synthetic Kepler light curves are stored in the `Kepler/` folder. Each file follows the naming pattern: `[AA]_H[BB]_D[CC]_[DD]_[EE]`
+  **Filename structure:**
+    - `AA` – Original light curve name  
+    - `BB` – Height of the injected flare  
+    - `CC` – Duration of the flare  
+    - `DD` – Index of the start of the rising phase  
+    - `EE` – Index of the start of the decay phase
+  - M-dwarfs**: This GitHub repository includes two sample files from 18 flares. For the full dataset and detailed analysis, please refer to the publication:t [Fast optical flares from M dwarfs detected by a one-second-cadence survey with Tomo-e Gozen](https://academic.oup.com/pasj/article/74/5/1069/6656381). 
 
 ---
 
