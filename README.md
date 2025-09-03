@@ -12,7 +12,7 @@
 ---
 
 ## 🆕 Main Recent Update
-- **[03-SEP-2025]** Uploaded full dataset and VUS-ROC image for Kepler and M-Draft dataset
+- **[03-SEP-2025]** Uploaded full dataset and VUS-ROC image for Kepler and M-Dwarfs dataset
 - **[12-JUL-2025]** This paper was accepted in [ADMA 2025](https://adma2025.github.io/)
 - **[22-MAY-2025]** Uploaded source code for the double-blind review phase of **ADMA 2025**.
 - **[29-MAY-2025]** Uploaded example source codes for TriLinear
