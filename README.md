@@ -12,7 +12,7 @@
 ---
 
 ## 🆕 Main Recent Update
-
+- **[03-SEP-2025]** Uploaded full dataset and VUS-ROC image for Kepler and M-Draft dataset
 - **[12-JUL-2025]** This paper was accepted in [ADMA 2025](https://adma2025.github.io/)
 - **[22-MAY-2025]** Uploaded source code for the double-blind review phase of **ADMA 2025**.
 - **[29-MAY-2025]** Uploaded example source codes for TriLinear
@@ -47,7 +47,14 @@
 ## 📂 Dataset
 
 - **NAB and KDD**: Available from the [TSB-AD GitHub repository](https://github.com/TheDatumOrg/TSB-AD/tree/main/Datasets).  
-- **Kepler and M-dwarfs**: Only two samples are included in this release for the double-blind review phase. The full dataset will be made available after acceptance.
+- **Kepler**: Synthetic Kepler light curves are stored in the `light_curve/` folder. Each file follows the naming pattern: `[AA]_H[BB]_D[CC]_[DD]_[EE]`
+**Filename structure:**
+  - `AA` – Original light curve name  
+  - `BB` – Height of the injected flare  
+  - `CC` – Duration of the flare  
+  - `DD` – Index of the start of the rising phase  
+  - `EE` – Index of the start of the decay phase
+- M-dwarfs**: Only two samples are included in this release for the double-blind review phase. 
 
 ---
 
