@@ -56,6 +56,11 @@ class series_decomp(nn.Module):
 
 
 class Model(nn.Module):
+    """
+        In our implementation, we use a default setting of $N = \lceil 0.667 \times L \rceil$, where the factor $0.667$
+        serves as a repetition ratio and the ceiling function ensures an integer window length.
+        REF : https://www.statsmodels.org/dev/generated/statsmodels.nonparametric.smoothers_lowess.lowess.html
+    """
     def __init__(self, seq_length, output_size, kernel_frac=0.6666666666666666):
         super(Model, self).__init__()
 
