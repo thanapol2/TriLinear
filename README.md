@@ -74,8 +74,17 @@ We evaluate methods using:
 
 ---
 
-## 📌 Note
-
-This version of **TriLinear** does not include encapsulated packaging or modular deployment features. A full version will be released after the double-blind review process is complete.
+## BibTex
+- If you plan to use or apply our source code, please cite our published paper.
+```
+@InProceedings{TriLinear,
+	author="Phungtua-eng, Thanapol and Arima, Noriaki and Yamamoto, Yoshitaka",
+	title="TriLinear: Time Series Anomaly Detection Using Tricube Smoothing Decomposition and a Linear Forecasting Model",
+	booktitle="The 21st International Conference on Advanced Data Mining and Applications 2025",
+	year="2025",
+	publisher="Springer Nature Switzerland",
+	address="Cham",
+}
+```
 
 ---
