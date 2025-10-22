@@ -77,14 +77,20 @@ We evaluate methods using:
 ## BibTex
 - If you plan to use or apply our source code, please cite our published paper.
 ```
-@InProceedings{TriLinear,
-	author="Phungtua-eng, Thanapol and Arima, Noriaki and Yamamoto, Yoshitaka",
-	title="TriLinear: Time Series Anomaly Detection Using Tricube Smoothing Decomposition and a Linear Forecasting Model",
-	booktitle="The 21st International Conference on Advanced Data Mining and Applications 2025",
-	year="2025",
-	publisher="Springer Nature Switzerland",
-	address="Cham",
+@InProceedings{10.1007/978-981-95-3456-2_2,
+	author="Phungtua-eng, Thanapol
+	and Arima, Noriaki
+	and Yamamoto, Yoshitaka",
+	title="TriLinear: Time Series Anomaly Detection Using Tricube Smoothing Decomposition and a Linear Forecasting Model",
+	booktitle="Advanced Data Mining and Applications",
+	year="2026",
+	publisher="Springer Nature Singapore",
+	address="Singapore",
+	pages="19--33",
+	isbn="978-981-95-3456-2"
 }
+
+
 ```
 
 ---
